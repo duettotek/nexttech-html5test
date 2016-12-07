@@ -1,2 +1,5 @@
 archive
 node_modules
+.idea/modules.xml
+.idea/nexttech-html5test.iml
+.idea/workspace.xml
